@@ -1,0 +1,5 @@
+{
+  "name": "HiveMind - The AI Control Plane",
+  "description": "Enterprise-grade AI labor management. This demo showcases the real-time supervision, intervention, and policy enforcement layer required to manage a modern AI workforce.",
+  "requestFramePermissions": []
+}
